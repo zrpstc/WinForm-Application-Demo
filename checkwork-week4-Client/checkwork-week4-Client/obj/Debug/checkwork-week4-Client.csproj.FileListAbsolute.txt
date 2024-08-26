@@ -1,0 +1,9 @@
+D:\visual studio 2015\Projects\checkwork-week4-Client\checkwork-week4-Client\bin\Debug\checkwork-week4-Client.exe.config
+D:\visual studio 2015\Projects\checkwork-week4-Client\checkwork-week4-Client\bin\Debug\checkwork-week4-Client.exe
+D:\visual studio 2015\Projects\checkwork-week4-Client\checkwork-week4-Client\bin\Debug\checkwork-week4-Client.pdb
+D:\visual studio 2015\Projects\checkwork-week4-Client\checkwork-week4-Client\obj\Debug\checkwork_week4_Client.Client.resources
+D:\visual studio 2015\Projects\checkwork-week4-Client\checkwork-week4-Client\obj\Debug\checkwork_week4_Client.Properties.Resources.resources
+D:\visual studio 2015\Projects\checkwork-week4-Client\checkwork-week4-Client\obj\Debug\checkwork-week4-Client.csproj.GenerateResource.Cache
+D:\visual studio 2015\Projects\checkwork-week4-Client\checkwork-week4-Client\obj\Debug\checkwork-week4-Client.exe
+D:\visual studio 2015\Projects\checkwork-week4-Client\checkwork-week4-Client\obj\Debug\checkwork-week4-Client.pdb
+D:\visual studio 2015\Projects\checkwork-week4-Client\checkwork-week4-Client\obj\Debug\checkwork-week4-Client.csprojResolveAssemblyReference.cache
