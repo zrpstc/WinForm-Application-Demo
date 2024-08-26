@@ -1,0 +1,16 @@
+获取需要长度的直线，此方式有断开
+disp_line (WindowHandle1, Parameter1[0]+700, Parameter1[1], Parameter1[2]+1200, Parameter1[3])
+
+正确流程是：
+根据两点坐标得到的直线
+gen_region_line(line,起始点x，起始点y，终点x，终点y）
+line_position(Row1,Col1,Row2,Col2,RowCenter,ColCenter,Length,Phi)
+
+生成延长线
+LineLength:= 500(延长线长度)
+起点：RowStrart:= RowCenter-cos(Phi+1.5078)*LineLength
+ColStrart:= ColCenter-sin(Phi+1.5078)*LineLength
+终点：
+RowEnd：= RowCenter-cos(Phi-1.5078)*LineLength
+ColEnd：= ColCenter-sin(Phi+1.5078)*LineLength
+gen_region_line(line2, RowStrart，ColStrart，RowEnd，ColEnd）

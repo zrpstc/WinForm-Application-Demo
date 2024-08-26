@@ -1,0 +1,11 @@
+D:\visual studio 2015\Projects\Halcon-01\Halcon-01\bin\x64\Debug\Halcon-01.exe.config
+D:\visual studio 2015\Projects\Halcon-01\Halcon-01\bin\x64\Debug\Halcon-01.exe
+D:\visual studio 2015\Projects\Halcon-01\Halcon-01\bin\x64\Debug\Halcon-01.pdb
+D:\visual studio 2015\Projects\Halcon-01\Halcon-01\bin\x64\Debug\halcondotnet.dll
+D:\visual studio 2015\Projects\Halcon-01\Halcon-01\bin\x64\Debug\halcondotnet.xml
+D:\visual studio 2015\Projects\Halcon-01\Halcon-01\obj\x64\Debug\HalconDotNet.Form1.resources
+D:\visual studio 2015\Projects\Halcon-01\Halcon-01\obj\x64\Debug\Halcon_01.Properties.Resources.resources
+D:\visual studio 2015\Projects\Halcon-01\Halcon-01\obj\x64\Debug\Halcon-01.csproj.GenerateResource.Cache
+D:\visual studio 2015\Projects\Halcon-01\Halcon-01\obj\x64\Debug\Halcon-01.exe
+D:\visual studio 2015\Projects\Halcon-01\Halcon-01\obj\x64\Debug\Halcon-01.pdb
+D:\visual studio 2015\Projects\Halcon-01\Halcon-01\obj\x64\Debug\Halcon-01.csprojResolveAssemblyReference.cache
