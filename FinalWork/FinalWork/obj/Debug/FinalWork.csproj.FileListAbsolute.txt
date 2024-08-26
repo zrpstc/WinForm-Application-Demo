@@ -1,0 +1,15 @@
+D:\visual studio 2015\Projects\FinalWork\FinalWork\bin\Debug\FinalWork.exe.config
+D:\visual studio 2015\Projects\FinalWork\FinalWork\obj\Debug\FinalWork.Properties.Resources.resources
+D:\visual studio 2015\Projects\FinalWork\FinalWork\obj\Debug\FinalWork.csproj.GenerateResource.Cache
+D:\visual studio 2015\Projects\FinalWork\FinalWork\bin\Debug\FinalWork.exe
+D:\visual studio 2015\Projects\FinalWork\FinalWork\bin\Debug\FinalWork.pdb
+D:\visual studio 2015\Projects\FinalWork\FinalWork\obj\Debug\FinalWork.csprojResolveAssemblyReference.cache
+D:\visual studio 2015\Projects\FinalWork\FinalWork\obj\Debug\FinalWork.Login.resources
+D:\visual studio 2015\Projects\FinalWork\FinalWork\obj\Debug\FinalWork.exe
+D:\visual studio 2015\Projects\FinalWork\FinalWork\obj\Debug\FinalWork.pdb
+D:\visual studio 2015\Projects\FinalWork\FinalWork\obj\Debug\FinalWork.Manage.resources
+D:\visual studio 2015\Projects\FinalWork\FinalWork\obj\Debug\FinalWork.AddCustomer.resources
+D:\visual studio 2015\Projects\FinalWork\FinalWork\obj\Debug\FinalWork.AddPress.resources
+D:\visual studio 2015\Projects\FinalWork\FinalWork\obj\Debug\FinalWork.AddOrder.resources
+D:\visual studio 2015\Projects\FinalWork\FinalWork\obj\Debug\FinalWork.AlterPaper.resources
+D:\visual studio 2015\Projects\FinalWork\FinalWork\obj\Debug\FinalWork.AlterCustomer.resources
