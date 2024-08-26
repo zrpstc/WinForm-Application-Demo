@@ -1,0 +1,11 @@
+D:\visual studio 2015\Projects\checkwork-week5\checkwork-week5\bin\Debug\checkwork-week5.exe.config
+D:\visual studio 2015\Projects\checkwork-week5\checkwork-week5\bin\Debug\checkwork-week5.exe
+D:\visual studio 2015\Projects\checkwork-week5\checkwork-week5\bin\Debug\checkwork-week5.pdb
+D:\visual studio 2015\Projects\checkwork-week5\checkwork-week5\obj\Debug\checkwork-week5.csprojResolveAssemblyReference.cache
+D:\visual studio 2015\Projects\checkwork-week5\checkwork-week5\obj\Debug\checkwork_week5.Manage.resources
+D:\visual studio 2015\Projects\checkwork-week5\checkwork-week5\obj\Debug\checkwork_week5.Login.resources
+D:\visual studio 2015\Projects\checkwork-week5\checkwork-week5\obj\Debug\checkwork_week5.Properties.Resources.resources
+D:\visual studio 2015\Projects\checkwork-week5\checkwork-week5\obj\Debug\checkwork-week5.csproj.GenerateResource.Cache
+D:\visual studio 2015\Projects\checkwork-week5\checkwork-week5\obj\Debug\checkwork-week5.exe
+D:\visual studio 2015\Projects\checkwork-week5\checkwork-week5\obj\Debug\checkwork-week5.pdb
+D:\visual studio 2015\Projects\checkwork-week5\checkwork-week5\obj\Debug\checkwork_week5.BookForm.resources
