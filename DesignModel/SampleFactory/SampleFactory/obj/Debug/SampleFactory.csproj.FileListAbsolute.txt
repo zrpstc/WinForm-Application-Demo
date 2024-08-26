@@ -1,0 +1,2 @@
+D:\visual studio 2015\Projects\SampleFactory\SampleFactory\bin\Debug\SampleFactory.exe.config
+D:\visual studio 2015\Projects\SampleFactory\SampleFactory\obj\Debug\SampleFactory.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\visual studio 2015\Projects\SingleDesignModel\SingleDesignModel\bin\Debug\SingleDesignModel.exe.config
+D:\visual studio 2015\Projects\SingleDesignModel\SingleDesignModel\bin\Debug\SingleDesignModel.exe
+D:\visual studio 2015\Projects\SingleDesignModel\SingleDesignModel\bin\Debug\SingleDesignModel.pdb
+D:\visual studio 2015\Projects\SingleDesignModel\SingleDesignModel\obj\Debug\SingleDesignModel.csprojResolveAssemblyReference.cache
+D:\visual studio 2015\Projects\SingleDesignModel\SingleDesignModel\obj\Debug\SingleDesignModel.exe
+D:\visual studio 2015\Projects\SingleDesignModel\SingleDesignModel\obj\Debug\SingleDesignModel.pdb
